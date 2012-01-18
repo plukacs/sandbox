@@ -1,0 +1,3 @@
+hi, my name is Peter!
+I like git.
+I like svn too.
